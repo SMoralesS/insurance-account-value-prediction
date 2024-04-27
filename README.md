@@ -52,7 +52,7 @@ To run the FastAPI app locally, follow these steps:
 - 2.2 Run the app:
 
     ```bash
-      uvicorn main:app --reload
+      uvicorn app.main:app --reload
     ```
     
 The app will start locally and will be accessible at http://localhost:8000 in your browser.

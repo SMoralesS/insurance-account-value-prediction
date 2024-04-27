@@ -166,3 +166,6 @@ data/
 data/*
 
 .DS_Store
+
+catboost_info/
+catboost_info/*
