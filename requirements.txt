@@ -1,0 +1,10 @@
+numpy==1.26.4 
+pandas==2.2.2
+matplotlib==3.8.4
+dython==0.7.5
+catboost==1.2.5
+sentence-transformers==2.7.0
+binclass-tools==1.1.2 
+shap==0.45.0
+fastapi
+uvicorn[standard]
